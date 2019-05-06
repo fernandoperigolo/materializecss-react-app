@@ -1,0 +1,19 @@
+$primary-color: #f00 !default;
+$secondary-color: #0f0 !default;
+$link-color: #00f !default;
+$primary-color-light: #ff0 !default;
+$primary-color-dark: #0ff !default;
+
+@import "materialize-css/sass/materialize.scss";
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

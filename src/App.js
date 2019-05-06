@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
-import './App.css'
-import 'materialize-css/dist/css/materialize.min.css'
+import './App.scss'
 import M from "materialize-css"
 import Collapsible from './Collapsible'
 import Sidebar from './Sidebar'
